@@ -56,8 +56,8 @@
 ## About The Project
 
 <p float="left">
-<img src="icons/prevPic1.jpg" width="40%" display="inline-block">
-<img src="icons/prevPic2.jpg" width="54%" display="inline-block">
+<img src="Icons/prevPic1.jpg" width="50%" display="inline-block">
+<img src="Icons/prevPic2.jpg" width="41%" display="inline-block">
 </p>
 
 Simple audio player implemented using Tkinter GUI , Pygame music and sqlite.
